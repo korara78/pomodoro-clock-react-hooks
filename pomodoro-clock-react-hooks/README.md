@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+This app is published on https://korara78.github.io/pomodoro-clock-react-hooks/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
