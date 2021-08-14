@@ -1,3 +1,8 @@
+import React from 'react';
+import './style.css';
+
+
+
 function App() {
     const [displayTime, setDisplayTime] = React.useState(25);
     const [breakTime, setBreakTime] = React.useState(5);
@@ -157,4 +162,5 @@ function App() {
     );
   }
   
-  ReactDOM.render(<App />, document.getElementById("root"));
+  //ReactDOM.render(<App />, document.getElementById("root"));
+  export default App;
